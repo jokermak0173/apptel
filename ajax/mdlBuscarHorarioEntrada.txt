@@ -1,0 +1,1 @@
+SELECT concat(fecha, 'T', min(hora)) start, color, title FROM checador WHERE  plaza = 1 and id_checador = 382 GROUP BY date(fecha)

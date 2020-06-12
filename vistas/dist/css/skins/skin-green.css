@@ -1,0 +1,133 @@
+/*
+ * Skin: Green
+ * -----------
+ */
+.skin-green .main-header .navbar {
+  background-color: red;
+}
+.skin-green .main-header .navbar .nav > li > a {
+  color: red;
+}
+.skin-green .main-header .navbar .nav > li > a:hover,
+.skin-green .main-header .navbar .nav > li > a:active,
+.skin-green .main-header .navbar .nav > li > a:focus,
+.skin-green .main-header .navbar .nav .open > a,
+.skin-green .main-header .navbar .nav .open > a:hover,
+.skin-green .main-header .navbar .nav .open > a:focus,
+.skin-green .main-header .navbar .nav > .active > a {
+  background: red;
+  color: red;
+}
+.skin-green .main-header .navbar .sidebar-toggle {
+  color: red;
+}
+.skin-green .main-header .navbar .sidebar-toggle:hover {
+  color: red;
+  background: red;
+.skin-green .main-header .navbar .sidebar-toggle {
+  color: red;
+}
+.skin-green .main-header .navbar .sidebar-toggle:hover {
+  background-color:red;
+}
+@media (max-width: 767px) {
+  .skin-green .main-header .navbar .dropdown-menu li.divider {
+    background-color: red;
+  }
+  .skin-green .main-header .navbar .dropdown-menu li a {
+    color: red;
+  }
+  .skin-green .main-header .navbar .dropdown-menu li a:hover {
+    background: red;
+  }
+}
+.skin-green .main-header .logo {
+  background-color: red;
+  color: red;
+  border-bottom: 0 solid transparent;
+}
+.skin-green .main-header .logo:hover {
+  background-color: red;
+}
+.skin-green .main-header li.user-header {
+  background-color: red;
+}
+.skin-green .content-header {
+  background: transparent;
+}
+.skin-green .wrapper,
+.skin-green .main-sidebar,
+.skin-green .left-side {
+  background-color: red;
+}
+.skin-green .user-panel > .info,
+.skin-green .user-panel > .info > a {
+  color: red;
+}
+.skin-green .sidebar-menu > li.header {
+  color: red;
+  background: red;
+}
+.skin-green .sidebar-menu > li > a {
+  border-left: 3px solid transparent;
+}
+.skin-green .sidebar-menu > li:hover > a,
+.skin-green .sidebar-menu > li.active > a,
+.skin-green .sidebar-menu > li.menu-open > a {
+  color: red;
+  background: red;
+}
+.skin-green .sidebar-menu > li.active > a {
+  border-left-color: red;
+}
+.skin-green .sidebar-menu > li > .treeview-menu {
+  margin: 0 1px;
+  background: red;
+}
+.skin-green .sidebar a {
+  color: red;
+}
+.skin-green .sidebar a:hover {
+  text-decoration: none;
+}
+.skin-green .sidebar-menu .treeview-menu > li > a {
+  color: red;
+}
+.skin-green .sidebar-menu .treeview-menu > li.active > a,
+.skin-green .sidebar-menu .treeview-menu > li > a:hover {
+  color: red;
+}
+.skin-green .sidebar-form {
+  border-radius: 3px;
+  border: 1px solid #374850;
+  margin: 10px 10px;
+}
+.skin-green .sidebar-form input[type="text"],
+.skin-green .sidebar-form .btn {
+  box-shadow: none;
+  background-color: red;
+  border: 1px solid transparent;
+  height: 35px;
+}
+.skin-green .sidebar-form input[type="text"] {
+  color: red;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 2px;
+}
+.skin-green .sidebar-form input[type="text"]:focus,
+.skin-green .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
+  background-color: red;
+  color: red;
+}
+.skin-green .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
+  border-left-color: red;
+}
+.skin-green .sidebar-form .btn {
+  color: red;
+  border-top-left-radius: 0;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 0;
+}
